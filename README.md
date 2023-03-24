@@ -11,7 +11,7 @@
 # 📗 Table of Contents
 
 - [📗 Table of Contents](#-table-of-contents)
-- [📖 \[Ruby BMI Calculator\] ](#-oop-school-library-)
+- [🧮 \[Ruby BMI Calculator\] ](#-oop-school-library-)
   - [🛠 Built With ](#-built-with-)
     - [Tech Stack ](#tech-stack-)
     - [Key Features ](#key-features-)
@@ -29,7 +29,7 @@
 
 <!-- PROJECT DESCRIPTION -->
 
-# 📖 [OOP school library] <a name="about-project"></a>
+# 🧮 [Ruby BMI Calculator] <a name="about-project"></a>
 
 **Ruby BMI Calculator** is a simple Ruby application to calculate Body Mass Index (BMI)
 
